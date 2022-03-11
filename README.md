@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -10,7 +10,7 @@
 <div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me </h2>
+### 🛠 &nbsp;Tech Stack
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
