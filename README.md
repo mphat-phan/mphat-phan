@@ -2,11 +2,6 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
-
 <div size='20px'> Hi! My Fullname is Phan Minh Phát. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
