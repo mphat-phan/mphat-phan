@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
+</p> -->
 
 <div size='20px'> Hi! My Fullname is Phan Minh Phát. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -42,8 +42,8 @@
 
 <p align="center">
 <a href="mailto:phanminhphat2001@gmail.com"><img src="https://img.shields.io/badge/-phanminhphat2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/walleeveee/"><img src="https://img.shields.io/badge/-@phanminphat-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/walle.149/"><img src="https://img.shields.io/badge/-@minhphattt-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/walleeveee/"><img src="https://img.shields.io/badge/-@walleeveee-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/walle.149/"><img src="https://img.shields.io/badge/-@walle.149-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
