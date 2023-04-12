@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Saigon University's student 
   
-- 💬 I want to become MERN developer
+- 💬 I want to become FullStack developer
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
 
