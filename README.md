@@ -45,8 +45,3 @@
 <a href="https://www.instagram.com/walleeveee/"><img src="https://img.shields.io/badge/-@walleeveee-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/walle.149/"><img src="https://img.shields.io/badge/-@walle.149-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-
------
-
-Last Edited on: 11/3/2022
